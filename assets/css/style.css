@@ -92,12 +92,11 @@ footer {
     display: inline;
 }
 
-#timer {
+#perTimer {
     font-size: 3rem;
     font-weight: bold;
-    margin-top: 1rem;
-
 }
+
 .titleScore{
     text-align: center;
     color: white;
